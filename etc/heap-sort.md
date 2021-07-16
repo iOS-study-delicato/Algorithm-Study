@@ -51,13 +51,13 @@
     ```
     MAX-HEAPIFY(A, i)
     {
-    	if there is no child of A[i]
-    		return;
-    	k ← index of the biggest child of i;
-    	if A[i] >= A[k]
-    		return;
-    	exchange A[i] and A[k];
-    	MAX-HEAPIFY(A, k);
+     if there is no child of A[i]
+      return;
+     k ← index of the biggest child of i;
+     if A[i] >= A[k]
+      return;
+     exchange A[i] and A[k];
+     MAX-HEAPIFY(A, k);
     }
     ```
 
@@ -92,13 +92,13 @@
     ```
     MAX-HEAPIFY(A, i)
     {
-    	while A[i] has a child do
-    		k ← index of the biggest child of i;
-    		if A[i] >= A[k]
-    			return;
-    		exchange A[i] and A[k];
-        i = k;
-       end.
+     while A[i] has a child do
+      k ← index of the biggest child of i;
+      if A[i] >= A[k]
+    	  return;
+      exchange A[i] and A[k];
+      i = k;
+     end.
     }
     ```
 
@@ -152,7 +152,7 @@
      BUILD-MAX-HEAP(A)
      heap-size[A] ← length[A]
      for i ← length[A]/2 downto 1
-     	do MAX-HEAPIFY(A, i)
+      do MAX-HEAPIFY(A, i)
      ```
 
    * Swift Code
@@ -180,11 +180,11 @@
 
   ```
   HEAPSORT(A)
-  BUILD-MAX-HEAP(A)										: O(n)
-  for i ← heap_size downto 2 do				: n-1 times
-  	exchange A[1] and A[i]						: O(1)
-  	heap_size ← heap_size - 1					: O(1)
-  	MAX-HEAPIFY(A, 1)									: O(logn)
+  BUILD-MAX-HEAP(A)                : O(n)
+  for i ← heap_size downto 2 do    : n-1 times
+   exchange A[1] and A[i]          : O(1)
+   heap_size ← heap_size - 1       : O(1)
+   MAX-HEAPIFY(A, 1)               : O(logn)
   ```
 
 * Swift Code
