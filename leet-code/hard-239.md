@@ -41,3 +41,4 @@ class Solution {
   * Hint 3: Remove redundant elements and the queue should store only elements that need to be considered.
 * 핵심은 2번이라고 생각하는데, k가 50,000이라면 50,000개의 요소를 모두 배열에 담아 그중 최대값을 찾는 대신 새로 추가될 값보다 작은 값들은 queue에서 삭제해 효율을 높이는 것이다. 윈도우의 크기를 벗어나는 요소는 queue에서 제외해주어야 하므로 큐의 양쪽 끝에서 모두 삽입과 삭제가 가능한 deque를 사용해야 한다.
 * Cf. deque는 덱이라고 읽고, dequeue는 디큐 등으로 읽는 듯 하다!
+* Cf. 곧 Swift에서도 deque를 만나볼 수 있는 듯 하다! [참고1](https://swift.org/blog/swift-collections/) [참고2](https://github.com/apple/swift-collections)
