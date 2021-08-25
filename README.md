@@ -39,9 +39,9 @@ Gather
 
 ### 공통문제 풀이 제출
 
-- [Algorithm-Study](https://github.com/iOS-study-delicato/Algorithm-Study) upstream repository에서 자신의 브랜치 만들고 fork 합니다
+- [Algorithm-Study](https://github.com/iOS-study-delicato/Algorithm-Study) upstream repository를 fork 합니다
 
--  `source/아이디`에 코드를 commit 후 master branch에 pull request 방식으로 제출합니다.
+-  `source/아이디`에 코드를 commit 후 upstream master branch에 pull request 방식으로 제출합니다.
 
 - **commit 메세지에 해당 주차 공통 문제가 출제되는 issue 번호를 꼭 적고 upstream repository에서 merge를 꼭 시켜주세요!**
 
@@ -54,7 +54,7 @@ Gather
 ### 이외 본인이 푼 문제
 
 - 이슈번호는 따로 적지 않고 master 브랜치로 PR을 보냅니다
-- 모르는 문제가 있어서 리뷰를 받고싶다면 스터디원에게 reviewer로 지정해 리뷰를 받고 본인이 merge를 합니다
+- 모르는 문제가 있어서 **리뷰**를 받고싶다면 스터디원에게 reviewer로 지정해 리뷰를 받고 본인이 merge를 합니다
 - 공통문제 이외에 본인이 공부하며 풀었던 문제들도 리뷰를 주고받으면서 본인 폴더에 올려놓으시면 서로 도움이 됩니다💡
 
 
