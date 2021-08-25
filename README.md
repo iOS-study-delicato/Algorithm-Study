@@ -92,3 +92,6 @@ Gather
 
 
 
+## 알고리즘 공부하는 방법
+
+[PS를 공부하는 방법 (How to study Problem Solving?)](https://subinium.github.io/how-to-study-problem-solving/)
