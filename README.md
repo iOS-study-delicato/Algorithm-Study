@@ -41,7 +41,7 @@ Gather
 
 - [Algorithm-Study](https://github.com/iOS-study-delicato/Algorithm-Study) upstream repository를 fork 합니다
 
--  `source/아이디`에 코드를 commit 후 upstream master branch에 pull request 방식으로 제출합니다.
+- 자신의 아이디 폴더에 코드를 commit 후 upstream master branch에 pull request 방식으로 제출합니다.
 
 - **commit 메세지에 해당 주차 공통 문제가 출제되는 issue 번호를 꼭 적고 upstream repository에서 merge를 꼭 시켜주세요!**
 
