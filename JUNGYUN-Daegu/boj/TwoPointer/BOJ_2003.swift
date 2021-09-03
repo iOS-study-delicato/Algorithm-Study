@@ -1,3 +1,4 @@
+
 let userInput1 = readLine()!.split(separator: " ")
 let arrayCount = Int(userInput1[0])!
 let desiredSum = Int(userInput1[1])!
@@ -24,3 +25,4 @@ for startPointer in 0..<arrayCount {
 }
 
 print(count)
+
