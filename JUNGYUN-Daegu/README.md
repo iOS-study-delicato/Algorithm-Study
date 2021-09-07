@@ -7,6 +7,7 @@
 * [17952 과제는 끝나지 않아!](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Stack/BOJ_17952.swift)
 ### Combination And Permutation
 * [6603 로또](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/CombinationAndPermutation/BOJ_6603.swift)
+* [15654 N과 M (5)]
 ### DFS, BFS
 * [12851 숨바꼭질 2](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/BFS/BOJ_12851.swift)
 * [14226 이모티콘](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/BFS/BOJ_14226.swift)
