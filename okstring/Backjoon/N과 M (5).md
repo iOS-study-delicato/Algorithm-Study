@@ -31,3 +31,38 @@ func back(cnt: Int) {
 back(cnt: 0)
 ```
 
+
+
+https://www.acmicpc.net/source/32952448
+
+다른 풀이
+
+```swift
+let nm = readLine()!.split(separator: " ").map { Int(String($0))! }
+let nums = readLine()!.split(separator: " ").map { String($0) }.sorted(by: { Int($0)! < Int($1)! })
+var visit = [Bool](repeating: false, count: nm.first!)
+var sequence = [String]()
+var result = ""
+
+func dfs(_ depth: Int) {
+    if depth == nm.last! {
+        result += "\(sequence.joined())\n"
+        return
+    }
+    for i in 0..<nm.first! {
+        if visit[i] {
+            continue
+        } else {
+            visit[i] = true
+            sequence.append("\(nums[i]) ")
+            dfs(depth + 1)
+            sequence.removeLast()
+            visit[i] = false
+        }
+    }
+}
+
+dfs(0)
+print(result)
+```
+
