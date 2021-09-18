@@ -156,7 +156,7 @@ BOOOJJJBOOOJJJBOOOJJ
 
 백트래킹으로 풀었을때는 앞단계에서 **불필요한 탐색이 들어가고 그 안에서 for문을 또 돌기 때문에 중복된 탐색이 나오고** 다시 되돌아오기 때문에 비효율적
 
-![Depthfirst](/Users/issac/Downloads/Depthfirst.png)
+![img](https://upload.wikimedia.org/wikipedia/commons/2/2c/Depthfirst.png)
 
 
 
