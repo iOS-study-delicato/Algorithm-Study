@@ -15,6 +15,7 @@
 * [2252 줄 세우기](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/TopologicalSort/BOJ_2252.swift)
 ### DP
 * [12026 거리]()
+* [12865 평범한 배낭]()
 ---
 ## Leetcode
 ### Easy
