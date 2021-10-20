@@ -22,6 +22,8 @@
 * [1541 잃어버린 괄호]()
 ### Greedy
 * [1931 회의실 배정]()
+### Implementation
+* [2750 수 정렬하기]()
 ---
 ## Leetcode
 ### Easy
