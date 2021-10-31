@@ -63,8 +63,10 @@ Gather
 
 | 날짜  | 문제                                                         | 분류                                          | 풀이                                                         |
 | ------ | ------------------------------------------------------------ | --------------------------------------------- | ------------------------------------------------------------ |
-|211029|[트리와 순회](https://www.acmicpc.net/problem/2263)|트리, 분할정복, 재귀||
-|211029|[별 찍기 - 10](https://www.acmicpc.net/problem/2447)|분할정복, 재귀||
+|211105|[괄호](https://www.acmicpc.net/problem/9012)|스택||
+|211105|[수 정렬하기 2](https://www.acmicpc.net/problem/2751)|정렬||
+|211029|[트리와 순회](https://www.acmicpc.net/problem/2263)|트리, 분할정복, 재귀|리아 쏭 [아이작](https://github.com/okstring/Algorithm-Study/blob/74bc719956bc7f2d6a99e9846341a61c2995175a/okstring/Backjoon/트리의%20순회.md) 제제 홍|
+|211029|[별 찍기 - 10](https://www.acmicpc.net/problem/2447)|분할정복, 재귀|리아 쏭 [아이작](https://github.com/okstring/Algorithm-Study/blob/74bc719956bc7f2d6a99e9846341a61c2995175a/okstring/Backjoon/별%20찍기%20-%2010.md) 제제 홍|
 |211022|[이진 검색 트리](https://www.acmicpc.net/problem/5639)|트리, 재귀|리아 쏭 [아이작](https://github.com/okstring/Algorithm-Study/blob/e37f0052050a749a4c5e37afe687648da0238f45/okstring/Backjoon/이진%20검색%20트리.md) 제제 홍|
 |211022|[수 정렬하기](https://www.acmicpc.net/problem/2750)|구현, 정렬|리아 쏭 [아이작](https://github.com/okstring/Algorithm-Study/blob/e37f0052050a749a4c5e37afe687648da0238f45/okstring/Backjoon/수%20정렬하기.md) [제제](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/09b6ba52eeb5458792889aae6a41de6fd1e4f849/JUNGYUN-Daegu/boj/Implementation/BOJ_2750.swift) 홍|
 |211015|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=swift)||리아 [쏭](https://github.com/1song2/Algorithm-Study/blob/988a8347d5adce4e99874800ca046ffc20e83dd8/1song2/programmers/level1-42889.md) [아이작](https://github.com/okstring/Algorithm-Study/blob/a6fe678bb0ef02456a6f5b4e6d80326f95962d4e/okstring/Programmers/실패율.md) [제제](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/271a0a167334f99d2701419275a45b70f97f27dc/JUNGYUN-Daegu/programmers/실패율.swift) [홍](https://github.com/HongzCloud/Algorithm-Study/blob/84fab1f2f1a89813f2cff731ef8ec69c584240d4/HongzCloud/Programmers/실패율.md)|
