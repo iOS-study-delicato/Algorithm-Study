@@ -63,7 +63,8 @@ Gather
 
 | 날짜  | 문제                                                         | 분류                                          | 풀이                                                         |
 | ------ | ------------------------------------------------------------ | --------------------------------------------- | ------------------------------------------------------------ |
-|211210|[암호 만들기](https://www.acmicpc.net/problem/1759)|||
+|211217|[RGB거리](https://www.acmicpc.net/problem/1149)|||
+|211210|[암호 만들기](https://www.acmicpc.net/problem/1759)|백트래킹, DFS|쏭 [아이작](https://github.com/okstring/Algorithm-Study/blob/bf351a03d5c1dfcff477605462e2796bc5cea1cb/okstring/Backjoon/암호%20만들기.md) 제제 홍|
 |211203|[LCS](https://www.acmicpc.net/problem/9251)|문자열, DP|쏭 [아이작](https://github.com/okstring/Algorithm-Study/blob/f5f0d20e44dd1aba56a46edd0ff24a6cf17a44f7/okstring/Backjoon/LCS.md) [제제](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/bef4f46966da7c16dd534111d780ade707171ef8/JUNGYUN-Daegu/boj/DP/BOJ_9251.swift) [홍](https://gist.github.com/HongzCloud/4f50eccbfa21b035ed59889cae8a9669)|
 |211126|[전화번호 목록](https://www.acmicpc.net/problem/5052)|문자열|쏭 [아이작](https://github.com/iOS-study-delicato/Algorithm-Study/blob/b062781e6d42a7a247286e64aa522fbf29852c5a/okstring/Backjoon/전화번호%20목록.md) 제제 [홍](https://gist.github.com/HongzCloud/5838f198312d25afcbc6ad79da4b2229)|
 |211119|[다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486)|재귀, 백트래킹|[쏭](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/1song2/programmers/level3-77486.md) [아이작](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/okstring/Programmers/다단계%20칫솔%20판매.md) [제제](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/e7f05fa4b7fd77b374ed5f8fe0c2f696bf5170d4/JUNGYUN-Daegu/programmers/다단계칫솔판매.swift) 홍|
