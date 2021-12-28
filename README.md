@@ -63,7 +63,9 @@ Gather
 
 | 날짜  | 문제                                                         | 분류                                          | 풀이                                                         |
 | ------ | ------------------------------------------------------------ | --------------------------------------------- | ------------------------------------------------------------ |
-|211217|[RGB거리](https://www.acmicpc.net/problem/1149)|||
+|211231|[계단 오르기](https://www.acmicpc.net/problem/2579)|||
+|211224|[행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)|DP|쏭 [아이작](https://github.com/okstring/Algorithm-Study/blob/b04701eeacaf3dad593822242b1d4dd455844139/okstring/Backjoon/행렬%20곱셈%20순서.md) [제제](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/4b33b960ea387afecc798e760efe75dd79b58971/JUNGYUN-Daegu/boj/DP/BOJ_11049.swift) 홍|
+|211217|[RGB거리](https://www.acmicpc.net/problem/1149)|DP|쏭 [아이작](https://github.com/okstring/Algorithm-Study/blob/9b1a478aab0f1295ccbef2df52290b74f587c43f/okstring/Backjoon/RGB거리.md) [제제](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/f15b10a2caea8ceb65d0b8d9e4e96ea734378e4b/JUNGYUN-Daegu/boj/DP/BOJ_1149.swift) 홍|
 |211210|[암호 만들기](https://www.acmicpc.net/problem/1759)|백트래킹, DFS|쏭 [아이작](https://github.com/okstring/Algorithm-Study/blob/bf351a03d5c1dfcff477605462e2796bc5cea1cb/okstring/Backjoon/암호%20만들기.md) 제제 홍|
 |211203|[LCS](https://www.acmicpc.net/problem/9251)|문자열, DP|쏭 [아이작](https://github.com/okstring/Algorithm-Study/blob/f5f0d20e44dd1aba56a46edd0ff24a6cf17a44f7/okstring/Backjoon/LCS.md) [제제](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/bef4f46966da7c16dd534111d780ade707171ef8/JUNGYUN-Daegu/boj/DP/BOJ_9251.swift) [홍](https://gist.github.com/HongzCloud/4f50eccbfa21b035ed59889cae8a9669)|
 |211126|[전화번호 목록](https://www.acmicpc.net/problem/5052)|문자열|쏭 [아이작](https://github.com/iOS-study-delicato/Algorithm-Study/blob/b062781e6d42a7a247286e64aa522fbf29852c5a/okstring/Backjoon/전화번호%20목록.md) 제제 [홍](https://gist.github.com/HongzCloud/5838f198312d25afcbc6ad79da4b2229)|
