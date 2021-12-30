@@ -5,7 +5,6 @@
 
 ## 스터디원 ✏️ 
 
-- 리아([Lia316](https://github.com/Lia316))
 - 쏭([1song2](https://github.com/1song2))
 - 아이작([okstring](https://github.com/okstring))
 - 제제([JUNGYUN-Daegu](https://github.com/JUNGYUN-Daegu))
@@ -53,7 +52,6 @@ Gather
 
 ### 이외 본인이 푼 문제
 
-- 이슈번호는 따로 적지 않고 master 브랜치로 PR을 보냅니다
 - 모르는 문제가 있어서 **리뷰**를 받고싶다면 스터디원에게 reviewer로 지정해 리뷰를 받고 본인이 merge를 합니다
 - 공통문제 이외에 본인이 공부하며 풀었던 문제들도 리뷰를 주고받으면서 본인 폴더에 올려놓으시면 서로 도움이 됩니다💡
 
@@ -103,8 +101,6 @@ Gather
 | 210722 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Linked List, Two Pointers                     | [리아](https://github.com/Lia316/algorithm/blob/master/leetcode/19.%20RemoveNthFromEnd.md) [쏭](https://github.com/1song2/algorithm/blob/main/leet-code/medium-19.md) [아이작](https://gist.github.com/okstring/860edb25f3fd72bfe3b0d1fc83601e47) [제제](https://gist.github.com/JUNGYUN-Daegu/46f6c0b84496f072114cbbc4f35c2f5f) [홍](https://hongz-developer.tistory.com/98) |
 | 210719 | 병합 정렬                                                    |                                               | [리아](https://github.com/Lia316/algorithm/blob/master/etc/MergeSort.md) [쏭](https://github.com/1song2/algorithm/blob/main/etc/merge-sort.md) [아이작](https://gist.github.com/okstring/ed4b492b9f6251a38a1d25d377426a05) [제제](https://www.notion.so/Merge-Sort-f8c7bdfc6bdf46cdb2b18d907e85d5a5) [홍](https://hongz-developer.tistory.com/95) |
 | 210715 | 힙 정렬                                                      |                                               | [리아](https://github.com/Lia316/algorithm/blob/master/etc/HeapSort.md) [쏭](https://github.com/1song2/algorithm/blob/main/etc/heap-sort.md) [아이작](https://gist.github.com/okstring/1e5949ee8924f225bfde8baee277f9f9) [제제](https://www.notion.so/Heap-Sorting-04da0643bb8d4a5e8bd069c5fbe11364) 홍 |
-| 210712 | 비공개                                                       |                                               |                                                              |
-| 210708 | 비공개                                                       |                                               |                                                              |
 | 210705 | [베달](https://programmers.co.kr/learn/courses/30/lessons/12978) | Dijkstra                                      | 리아 [쏭](https://github.com/1song2/algorithm/blob/main/programmers/level2-12978.md) [아이작](https://gist.github.com/okstring/ecd6758a24d3968d27fe47a6946376fc) [제제](https://gist.github.com/JUNGYUN-Daegu/fedbd35adefb9ec6209a0bb44b989330) [홍](https://github.com/HongzCloud/AlgorithmStudy/blob/main/그리디/Dijkstra/Dijkstra/main.swift) |
 | 210701 | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) |                                               | [리아](https://github.com/Lia316/algorithm/blob/master/programmers/LCMofN.md) [쏭](https://github.com/1song2/algorithm/blob/main/programmers/level2-12953.md) [아이작](https://gist.github.com/okstring/8da3f8368ca1c7b1b51f40ffb76f1f6e) [제제](https://gist.github.com/JUNGYUN-Daegu/656733c4b233bfc59edee4d486c7bd92) [홍](https://gist.github.com/HongzCloud/a1e8c986d01ec4363e6ee9cd9f1ed79e) |
 | 210628 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | Binary Tree, BFS                              | [리아](https://github.com/Lia316/algorithm/blob/master/leetcode/958.%20Check%20Completeness%20of%20a%20Binary%20Tree.md) [쏭](https://github.com/1song2/algorithm/blob/main/leet-code/medium-958.md) [아이작](https://gist.github.com/okstring/171a6a5a19d4666a8507afc55530f971) [제제](https://gist.github.com/JUNGYUN-Daegu/e67bb5e5094f6b38fb98da863220d0b9) [홍](https://gist.github.com/HongzCloud/47a050fccc4b5a91aab08b843304ab58) |
