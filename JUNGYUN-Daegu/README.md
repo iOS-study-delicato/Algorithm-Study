@@ -6,30 +6,30 @@
 ### Stack(스택)
 * [17952 과제는 끝나지 않아!](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Stack/BOJ_17952.swift)
 * [10773 제로](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Stack/BOJ_10773.swift)
-* [9012 괄호]()
+* [9012 괄호](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Stack/BOJ_9012.swift)
 ### Combination And Permutation
 * [6603 로또](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/CombinationAndPermutation/BOJ_6603.swift)
-* [15654 N과 M (5)]
+* [15654 N과 M (5)](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/CombinationAndPermutation/BOJ_15654.swift)
 ### DFS, BFS
 * [12851 숨바꼭질 2](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/BFS/BOJ_12851.swift)
 * [14226 이모티콘](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/BFS/BOJ_14226.swift)
 ### Topological Sort(위상 정렬)
 * [2252 줄 세우기](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/TopologicalSort/BOJ_2252.swift)
 ### DP
-* [12026 거리]()
-* [12865 평범한 배낭]()
-* [9251 LCS]()
-* [1149 RGB거리]()
-* [11049 행렬 곱셈 순서]
-* [2579 계단 오르기]
+* [12026 거리](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/DP/BOJ_12026.swift)
+* [12865 평범한 배낭](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/DP/BOJ_12865.swift)
+* [9251 LCS](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/DP/BOJ_9251.swift)
+* [1149 RGB거리](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/DP/BOJ_1149.swift)
+* [11049 행렬 곱셈 순서](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/DP/BOJ_11049.swift)
+* [2579 계단 오르기](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/DP/BOJ_2579.swift)
 ### Math
-* [1731 추론]()
-* [1541 잃어버린 괄호]()
+* [1731 추론](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Math/BOJ_1731.swift)
+* [1541 잃어버린 괄호](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Math/BOJ_1541.swift)
 ### Greedy
-* [1931 회의실 배정]()
+* [1931 회의실 배정](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Greedy/BOJ_1931.swift)
 ### Implementation
-* [2750 수 정렬하기]()
-* [2751 수 정렬하기2]()
+* [2750 수 정렬하기](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Implementation/BOJ_2750.swift)
+* [2751 수 정렬하기2](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Implementation/BOJ_2751.swift)
 ---
 ## Leetcode
 ### Easy
@@ -46,16 +46,16 @@
 ## 프로그래머스
 ### Level 1
 ### Level 2
-* [순위검색]()
-* [후보키]()
-* [위장]()
-* [타겟넘버]()
-* [다리를 지나는 트럭]()
-* [카펫]()
+* [순위검색](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EC%88%9C%EC%9C%84%EA%B2%80%EC%83%89.swift)
+* [후보키](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%ED%9B%84%EB%B3%B4%ED%82%A4.swift)
+* [위장](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EC%9C%84%EC%9E%A5.swift)
+* [타겟넘버](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84.swift)
+* [다리를 지나는 트럭](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EB%8B%A4%EB%A6%AC%EB%A5%BC_%EC%A7%80%EB%82%98%EB%8A%94_%ED%8A%B8%EB%9F%AD.swift)
+* [카펫](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EC%B9%B4%ED%8E%AB.swift)
 ### Level 3
-* [자물쇠와 열쇠]()
-* [다단계 칫솔 판매]()
+* [자물쇠와 열쇠](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80%EC%97%B4%EC%87%A0.swift)
+* [다단계 칫솔 판매](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EB%8B%A4%EB%8B%A8%EA%B3%84%EC%B9%AB%EC%86%94%ED%8C%90%EB%A7%A4.swift)
 ### Level 4
 ### Level 5
 ### Others
-* [실패율]()
+* [실패율](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EC%8B%A4%ED%8C%A8%EC%9C%A8.swift)
