@@ -5,7 +5,7 @@
 * [14719 빗물](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/TwoPointer/BOJ_14719.swift)
 ### Stack(스택)
 * [17952 과제는 끝나지 않아!](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Stack/BOJ_17952.swift)
-* [10773 제로]()
+* [10773 제로](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Stack/BOJ_10773.swift)
 * [9012 괄호]()
 ### Combination And Permutation
 * [6603 로또](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/CombinationAndPermutation/BOJ_6603.swift)
@@ -18,6 +18,10 @@
 ### DP
 * [12026 거리]()
 * [12865 평범한 배낭]()
+* [9251 LCS]()
+* [1149 RGB거리]()
+* [11049 행렬 곱셈 순서]
+* [2579 계단 오르기]
 ### Math
 * [1731 추론]()
 * [1541 잃어버린 괄호]()
@@ -43,8 +47,14 @@
 ### Level 1
 ### Level 2
 * [순위검색]()
+* [후보키]()
+* [위장]()
+* [타겟넘버]()
+* [다리를 지나는 트럭]()
+* [카펫]()
 ### Level 3
 * [자물쇠와 열쇠]()
+* [다단계 칫솔 판매]()
 ### Level 4
 ### Level 5
 ### Others
