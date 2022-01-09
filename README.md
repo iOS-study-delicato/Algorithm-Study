@@ -61,7 +61,8 @@ Gather
 
 | 날짜  | 문제                                                         | 분류                                          | 풀이                                                         |
 | ------ | ------------------------------------------------------------ | --------------------------------------------- | ------------------------------------------------------------ |
-|211231|[계단 오르기](https://www.acmicpc.net/problem/2579)|||
+|220114|[퇴사](https://www.acmicpc.net/problem/14501)|||
+|210107|[계단 오르기](https://www.acmicpc.net/problem/2579)|DP|쏭 [아이작](https://github.com/okstring/Algorithm-Study/blob/8343fe760ac8a28e44d5fbbe4cb049a664accfc0/okstring/Backjoon/계단오르기.md) [제제](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/4dd4b8b7d6038fef5335d4b831c42286246dfb23/JUNGYUN-Daegu/boj/DP/BOJ_2579.swift) 홍|
 |211224|[행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)|DP|쏭 [아이작](https://github.com/okstring/Algorithm-Study/blob/b04701eeacaf3dad593822242b1d4dd455844139/okstring/Backjoon/행렬%20곱셈%20순서.md) [제제](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/4b33b960ea387afecc798e760efe75dd79b58971/JUNGYUN-Daegu/boj/DP/BOJ_11049.swift) 홍|
 |211217|[RGB거리](https://www.acmicpc.net/problem/1149)|DP|쏭 [아이작](https://github.com/okstring/Algorithm-Study/blob/9b1a478aab0f1295ccbef2df52290b74f587c43f/okstring/Backjoon/RGB거리.md) [제제](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/f15b10a2caea8ceb65d0b8d9e4e96ea734378e4b/JUNGYUN-Daegu/boj/DP/BOJ_1149.swift) 홍|
 |211210|[암호 만들기](https://www.acmicpc.net/problem/1759)|백트래킹, DFS|쏭 [아이작](https://github.com/okstring/Algorithm-Study/blob/bf351a03d5c1dfcff477605462e2796bc5cea1cb/okstring/Backjoon/암호%20만들기.md) 제제 홍|
