@@ -22,7 +22,7 @@
 * [1149 RGB거리](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/DP/BOJ_1149.swift)
 * [11049 행렬 곱셈 순서](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/DP/BOJ_11049.swift)
 * [2579 계단 오르기](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/DP/BOJ_2579.swift)
-* [14501 퇴사]()
+* [14501 퇴사](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/DP/BOJ_14501.swift)
 ### Math
 * [1731 추론](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Math/BOJ_1731.swift)
 * [1541 잃어버린 괄호](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Math/BOJ_1541.swift)
@@ -55,8 +55,8 @@
 * [다리를 지나는 트럭](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EB%8B%A4%EB%A6%AC%EB%A5%BC_%EC%A7%80%EB%82%98%EB%8A%94_%ED%8A%B8%EB%9F%AD.swift)
 * [카펫](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EC%B9%B4%ED%8E%AB.swift)
 * [프린터](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%ED%94%84%EB%A6%B0%ED%84%B0.swift)
-* [가장 큰 수]()
-* [소수찾기]()
+* [가장 큰 수](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.swift)
+* [소수찾기](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.swift)
 
 ### Level 3
 * [자물쇠와 열쇠](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80%EC%97%B4%EC%87%A0.swift)
@@ -64,7 +64,7 @@
 * [가장 먼 노드(다익스트라 풀이)](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EB%85%B8%EB%93%9C(%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC%20%ED%92%80%EC%9D%B4).swift)
 * [가장 먼 노드 (BFS 풀이)](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EB%85%B8%EB%93%9C(BFS%20%ED%92%80%EC%9D%B4).swift)
 * [베스트앨범](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.swift)
-* [네트워크]()
+* [네트워크](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.swift)
 ### Level 4
 ### Level 5
 ### Others
