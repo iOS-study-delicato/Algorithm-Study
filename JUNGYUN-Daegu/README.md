@@ -28,7 +28,7 @@
 * [1541 잃어버린 괄호](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Math/BOJ_1541.swift)
 ### Greedy
 * [1931 회의실 배정](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Greedy/BOJ_1931.swift)
-* [1439 뒤집기]()
+* [1439 뒤집기](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Greedy/BOJ_1439.swift)
 ### Implementation
 * [2750 수 정렬하기](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Implementation/BOJ_2750.swift)
 * [2751 수 정렬하기2](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Implementation/BOJ_2751.swift)
