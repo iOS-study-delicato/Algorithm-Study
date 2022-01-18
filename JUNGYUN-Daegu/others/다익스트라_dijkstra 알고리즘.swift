@@ -1,4 +1,3 @@
-
 let INF = Int.max // 무한을 의미하는 숫자
 
 let nm = readLine()!.split(separator: " ").map { Int(String($0))! }
@@ -61,9 +60,9 @@ func dijkstra(start: Int) {
             for k in graph[now] {
                 let cost = distance[now] + k.cost
         
-                //현재 노드를 거쳐서 다른 노드로 이동하는 거리다 더 짧은 경우
+                //현재 노드를 거쳐서 다른 노드로 이동하는 거리가 더 짧은 경우
                 if cost < distance[k.to] {
-                    distance[k.cost] = cost
+                    distance[k.to] = cost
                 }
             }
         
@@ -104,3 +103,4 @@ OUT
  2
  4
  */
+
