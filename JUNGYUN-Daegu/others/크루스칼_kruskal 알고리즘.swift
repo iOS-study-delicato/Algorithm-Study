@@ -12,26 +12,26 @@ func kruskal() {
     
     // 특정 원소가 속한 집합을 찾기
     func findParent(of node: Int) -> Int {
-        //루트 노드가 아니라면 루트 노드를 찾을 때까지 재귀적으로 호출
-        if parent[node] != node {
-            parent[node] = findParent(of: parent[node])
-        }
         
-        return parent[node]
+        if parent[node] == node {
+            return node
+            // 루트 노드가 아니라면 재귀적으로 루트 노드 찾기
+        } else {
+            parent[node] = findParent(of: parent[node])
+            return parent[node]
+        }
+
     }
     
     //두 원소가 속한 집합을 합치기
     func unionParent(a: Int, b: Int) {
-        var a = a
-        var b = b
-        
-        a = findParent(of: a)
-        b = findParent(of: b)
+        let a = findParent(of: a)
+        let b = findParent(of: b)
         
         if a < b {
-            parent[b] = a
+            parent[b] = parent[a]
         } else {
-            parent[a] = b
+            parent[a] = parent[b]
         }
     }
     
