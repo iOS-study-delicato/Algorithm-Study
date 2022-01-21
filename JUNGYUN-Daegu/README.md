@@ -7,6 +7,7 @@
 * [17952 과제는 끝나지 않아!](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Stack/BOJ_17952.swift)
 * [10773 제로](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Stack/BOJ_10773.swift)
 * [9012 괄호](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Stack/BOJ_9012.swift)
+* [10779 쇠막대기](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Stack/BOJ_10779.swift)
 ### Combination And Permutation
 * [6603 로또](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/CombinationAndPermutation/BOJ_6603.swift)
 * [15654 N과 M (5)](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/CombinationAndPermutation/BOJ_15654.swift)
@@ -23,6 +24,7 @@
 * [11049 행렬 곱셈 순서](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/DP/BOJ_11049.swift)
 * [2579 계단 오르기](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/DP/BOJ_2579.swift)
 * [14501 퇴사](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/DP/BOJ_14501.swift)
+* [14501 병사 배치하기](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/DP/BOJ_18353.swift)
 ### Math
 * [1731 추론](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Math/BOJ_1731.swift)
 * [1541 잃어버린 괄호](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Math/BOJ_1541.swift)
@@ -39,6 +41,7 @@
 ### Easy
 ### Medium
 * [19 Remove Nth Node From End of List](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-19.swift)
+* [43 Multiply Strings](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-43.swift)
 * [49 Group Anagrams](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-49.swift)
 * [102 Binary Tree Level Order Traversal](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-102.swift)
 * [200 Number of Islands](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-200.swift)
@@ -51,6 +54,7 @@
 ### Level 1
 * [로또의 최고순위와 최저순위](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%EC%88%9C%EC%9C%84.swift)
 * [모의고사](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.swift)
+* [K번째수](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/K%EB%B2%88%EC%A7%B8%EC%88%98.swift)
 ### Level 2
 * [순위검색](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EC%88%9C%EC%9C%84%EA%B2%80%EC%83%89.swift)
 * [후보키](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%ED%9B%84%EB%B3%B4%ED%82%A4.swift)
@@ -70,7 +74,10 @@
 * [베스트앨범](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.swift)
 * [네트워크](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.swift)
 * [입국심사](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.swift)
+* [순위](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EC%88%9C%EC%9C%84.swift)
+* [섬 연결하기](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EC%84%AC%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.swift)
 ### Level 4
+* [무지의 먹방 라이브](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EB%AC%B4%EC%A7%80%EC%9D%98%20%EB%A8%B9%EB%B0%A9%20%EB%9D%BC%EC%9D%B4%EB%B8%8C.swift)
 ### Level 5
 ### Others
 * [실패율](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EC%8B%A4%ED%8C%A8%EC%9C%A8.swift)
