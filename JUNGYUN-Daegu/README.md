@@ -49,6 +49,7 @@
 * [739 Daily Temperatures](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-739.swift)
 * [958 Check Completeness of a Binary Tree](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-958.swift)
 ### Hard
+* [42 Trapping Rain Water]()
 * [239 Sliding Window Maximum](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/hard-239.swift)
 ---
 ## 프로그래머스
