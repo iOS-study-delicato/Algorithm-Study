@@ -39,6 +39,7 @@
 ---
 ## Leetcode
 ### Easy
+* [35 Search Insert Position]()
 * [217 Contains Duplicate]()
 * [941 Valid Mountain Array]()
 
