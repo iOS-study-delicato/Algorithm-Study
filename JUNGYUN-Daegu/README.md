@@ -39,6 +39,8 @@
 ---
 ## Leetcode
 ### Easy
+* [217 Contains Duplicate]()
+
 ### Medium
 * [11 Container With Most Water](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-11.swift)
 * [19 Remove Nth Node From End of List](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-19.swift)
@@ -48,6 +50,7 @@
 * [200 Number of Islands](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-200.swift)
 * [739 Daily Temperatures](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-739.swift)
 * [958 Check Completeness of a Binary Tree](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-958.swift)
+
 ### Hard
 * [42 Trapping Rain Water](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/hard-42.swift)
 * [239 Sliding Window Maximum](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/hard-239.swift)
