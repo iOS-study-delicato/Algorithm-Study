@@ -1,3 +1,4 @@
+
 var nums = readLine()!.split(separator: " ").map { Int($0)! }
 
 // Ascendant Sorting
@@ -28,15 +29,15 @@ func quickSort(start: Int, end: Int) {
         } else {
             nums.swapAt(pivot, right)
         }
-        
-        quickSort(start: pivot, end: right - 1)
-        quickSort(start: right + 1, end: end)
+    
     }
+    
+    quickSort(start: pivot, end: right - 1)
+    quickSort(start: right + 1, end: end)
     
 }
     
 quickSort(start: 0, end: nums.count - 1)
 print(nums)
-
 
 
