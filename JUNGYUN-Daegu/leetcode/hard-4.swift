@@ -1,4 +1,4 @@
-// LeetCode Medium 4. Median of Two Sorted Arrays
+// LeetCode Hard 4. Median of Two Sorted Arrays
 // https://leetcode.com/problems/median-of-two-sorted-arrays/
 // 22.01.27
 
