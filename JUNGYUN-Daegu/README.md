@@ -48,7 +48,7 @@
 
 ### Medium
 * [3 Longest Substring Without Repeating Characters](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-3.swift)
-* [5 Longest Palindromic Substring]()
+* [5 Longest Palindromic Substring](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-5.swift)
 * [11 Container With Most Water](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-11.swift)
 * [19 Remove Nth Node From End of List](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-19.swift)
 * [43 Multiply Strings](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-43.swift)
