@@ -57,7 +57,7 @@
 * [958 Check Completeness of a Binary Tree](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-958.swift)
 
 ### Hard
-* [4 Median of Two Sorted Arrays]()
+* [4 Median of Two Sorted Arrays](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/hard-4.swift)
 * [42 Trapping Rain Water](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/hard-42.swift)
 * [239 Sliding Window Maximum](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/hard-239.swift)
 ---
