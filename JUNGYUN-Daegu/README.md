@@ -42,7 +42,7 @@
 ### Easy
 * [1 Two Sum](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-1.swift)
 * [2 Add Two Numbers](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-2.swift)
-* [9 Palindrome Number]()
+* [9 Palindrome Number](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-9.swift)
 * [35 Search Insert Position](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-35.swift)
 * [217 Contains Duplicate](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-217.swift)
 * [941 Valid Mountain Array](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-941.swift)
@@ -52,7 +52,7 @@
 * [5 Longest Palindromic Substring](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-5.swift)
 * [6 Zigzag Conversion](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-6.swift)
 * [7 Reverse Integer](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-7.swift)
-* [8 String to Integer (atoi)]()
+* [8 String to Integer (atoi)](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-8.swift)
 * [11 Container With Most Water](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-11.swift)
 * [19 Remove Nth Node From End of List](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-19.swift)
 * [43 Multiply Strings](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-43.swift)
