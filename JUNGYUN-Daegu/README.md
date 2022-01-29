@@ -43,6 +43,7 @@
 * [1. Two Sum](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-1.swift)
 * [2. Add Two Numbers](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-2.swift)
 * [9. Palindrome Number](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-9.swift)
+* [14. Longest Common Prefix]()
 * [35. Search Insert Position](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-35.swift)
 * [217. Contains Duplicate](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-217.swift)
 * [941. Valid Mountain Array](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-941.swift)
