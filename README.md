@@ -61,7 +61,9 @@ Gather
 
 | 날짜  | 문제                                                         | 분류                                          | 풀이                                                         |
 | ------ | ------------------------------------------------------------ | --------------------------------------------- | ------------------------------------------------------------ |
-|220121|[병사 배치하기](https://www.acmicpc.net/problem/18353)|||
+|220204|[종이의 개수](https://www.acmicpc.net/problem/1780)|||
+|220128|[연구소](https://www.acmicpc.net/problem/14502)|BFS, Brute force|쏭 아이작 [제제](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/840234f0c43400b0aa74367a73ac398fafb239a1/JUNGYUN-Daegu/boj/BFS:DFS/BOJ_14502.swift) 홍|
+|220121|[병사 배치하기](https://www.acmicpc.net/problem/18353)|DP, 가장 긴 증가하는 부분 수열|쏭 [아이작](https://github.com/okstring/Algorithm-Study/blob/75fece3e09275faf9c84d21b1fa64953f3816669/okstring/Backjoon/병사%20배치하기.md) [제제](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/5b6ed158bc1b37a9d1d2793064119f43cf550bd5/JUNGYUN-Daegu/boj/DP/BOJ_18353.swift) 홍|
 |220114|[퇴사](https://www.acmicpc.net/problem/14501)|DP, DFS|쏭 [아이작](https://github.com/okstring/Algorithm-Study/blob/460938247fbcb22f812a28fec55acbc19f5894fe/okstring/Backjoon/퇴사.md) [제제](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/6bf405bebfc9052092d6e5f1fc4778005ce90832/JUNGYUN-Daegu/README.md) 홍|
 |210107|[계단 오르기](https://www.acmicpc.net/problem/2579)|DP|쏭 [아이작](https://github.com/okstring/Algorithm-Study/blob/8343fe760ac8a28e44d5fbbe4cb049a664accfc0/okstring/Backjoon/계단오르기.md) [제제](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/4dd4b8b7d6038fef5335d4b831c42286246dfb23/JUNGYUN-Daegu/boj/DP/BOJ_2579.swift) 홍|
 |211224|[행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)|DP|쏭 [아이작](https://github.com/okstring/Algorithm-Study/blob/b04701eeacaf3dad593822242b1d4dd455844139/okstring/Backjoon/행렬%20곱셈%20순서.md) [제제](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/4b33b960ea387afecc798e760efe75dd79b58971/JUNGYUN-Daegu/boj/DP/BOJ_11049.swift) 홍|
