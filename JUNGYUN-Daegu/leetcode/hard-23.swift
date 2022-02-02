@@ -15,7 +15,6 @@ public class ListNode {
 class Solution {
     func mergeKLists(_ lists: [ListNode?]) -> ListNode? {
         
-        // 1 2 3
         func divide(lists: [ListNode?]) -> ListNode? {
             if lists.count == 1 {
                 return lists[0]
