@@ -46,6 +46,7 @@
 * [9. Palindrome Number](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-9.swift)
 * [14. Longest Common Prefix](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-14.swift)
 * [20. Valid Parentheses](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-20.swift)
+* [26. Remove Duplicates from Sorted Array]()
 * [35. Search Insert Position](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-35.swift)
 * [217. Contains Duplicate](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-217.swift)
 * [941. Valid Mountain Array](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-941.swift)
