@@ -81,7 +81,7 @@
 * [10. Regular Expression Matching](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/hard-10.swift)
 * [23. Merge k Sorted Lists](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/hard-23.swift)
 * [25. Reverse Nodes in k-Group](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/hard-25.swift)
-* [30. Substring with Concatenation of All Words]()
+* [30. Substring with Concatenation of All Words](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/hard-30.swift)
 * [42. Trapping Rain Water](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/hard-42.swift)
 * [239. Sliding Window Maximum](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/hard-239.swift)
 ---
