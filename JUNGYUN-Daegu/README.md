@@ -28,6 +28,7 @@
 * [2579 계단 오르기](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/DP/BOJ_2579.swift)
 * [14501 퇴사](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/DP/BOJ_14501.swift)
 * [14501 병사 배치하기](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/DP/BOJ_18353.swift)
+* [2293 동전 1]()
 ### Math
 * [1731 추론](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Math/BOJ_1731.swift)
 * [1541 잃어버린 괄호](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Math/BOJ_1541.swift)
