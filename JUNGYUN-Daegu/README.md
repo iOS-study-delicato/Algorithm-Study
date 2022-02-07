@@ -69,6 +69,7 @@
 * [19. Remove Nth Node From End of List](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-19.swift)
 * [22. Generate Parentheses](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-22.swift)
 * [24. Swap Nodes in Pairs](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-24.swift)
+* [31. Next Permutation]()
 * [43. Multiply Strings](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-43.swift)
 * [49. Group Anagrams](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-49.swift)
 * [102. Binary Tree Level Order Traversal](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-102.swift)
