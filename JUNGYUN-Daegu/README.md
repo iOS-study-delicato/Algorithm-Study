@@ -79,7 +79,7 @@
 * [49. Group Anagrams](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-49.swift)
 * [102. Binary Tree Level Order Traversal](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-102.swift)
 * [200. Number of Islands](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-200.swift)
-* [567. Permutation in String]()
+* [567. Permutation in String](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-567.swift)
 * [739. Daily Temperatures](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-739.swift)
 * [958. Check Completeness of a Binary Tree](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-958.swift)
 
