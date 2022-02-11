@@ -18,7 +18,7 @@
 * [1780 종이의 개수](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/BFS:DFS/BOJ_1780.swift)
 * [1012 유기농 배추](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/BFS:DFS/BOJ_1012.swift)
 * [2606 바이러스](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/BFS:DFS/BOJ_2606.swift)
-* [7569 토마토]()
+* [7569 토마토](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/BFS:DFS/BOJ_7569.swift)
 ### Topological Sort(위상 정렬)
 * [2252 줄 세우기](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/TopologicalSort/BOJ_2252.swift)
 ### DP
