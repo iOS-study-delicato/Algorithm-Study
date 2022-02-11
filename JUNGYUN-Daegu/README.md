@@ -16,6 +16,9 @@
 * [14226 이모티콘](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/BFS/BOJ_14226.swift)
 * [14502 연구소](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/BFS:DFS/BOJ_14502.swift)
 * [1780 종이의 개수](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/BFS:DFS/BOJ_1780.swift)
+* [1012 유기농 배추](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/BFS:DFS/BOJ_1012.swift)
+* [2606 바이러스](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/BFS:DFS/BOJ_2606.swift)
+* [7569 토마토](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/BFS:DFS/BOJ_7569.swift)
 ### Topological Sort(위상 정렬)
 * [2252 줄 세우기](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/TopologicalSort/BOJ_2252.swift)
 ### DP
@@ -27,6 +30,7 @@
 * [2579 계단 오르기](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/DP/BOJ_2579.swift)
 * [14501 퇴사](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/DP/BOJ_14501.swift)
 * [14501 병사 배치하기](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/DP/BOJ_18353.swift)
+* [2293 동전 1](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/DP/BOJ_2293.swift)
 ### Math
 * [1731 추론](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Math/BOJ_1731.swift)
 * [1541 잃어버린 괄호](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Math/BOJ_1541.swift)
@@ -67,10 +71,15 @@
 * [19. Remove Nth Node From End of List](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-19.swift)
 * [22. Generate Parentheses](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-22.swift)
 * [24. Swap Nodes in Pairs](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-24.swift)
+* [31. Next Permutation](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-31.swift)
+* [33. Search in Rotated Sorted Array](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-33.swift)
+* [34. Find First and Last Position of Element in Sorted Array](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-34.swift)
+* [36. Valid Sudoku](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-36.swift)
 * [43. Multiply Strings](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-43.swift)
 * [49. Group Anagrams](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-49.swift)
 * [102. Binary Tree Level Order Traversal](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-102.swift)
 * [200. Number of Islands](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-200.swift)
+* [567. Permutation in String](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-567.swift)
 * [739. Daily Temperatures](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-739.swift)
 * [958. Check Completeness of a Binary Tree](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-958.swift)
 
@@ -79,6 +88,9 @@
 * [10. Regular Expression Matching](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/hard-10.swift)
 * [23. Merge k Sorted Lists](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/hard-23.swift)
 * [25. Reverse Nodes in k-Group](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/hard-25.swift)
+* [30. Substring with Concatenation of All Words](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/hard-30.swift)
+* [32. Longest Valid Parentheses](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/hard-32.swift)
+* [37. Sudoku Solver](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/hard-37.swift)
 * [42. Trapping Rain Water](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/hard-42.swift)
 * [239. Sliding Window Maximum](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/hard-239.swift)
 ---
@@ -101,6 +113,8 @@
 * [소수찾기](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.swift)
 * [양궁대회](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EC%96%91%EA%B6%81%EB%8C%80%ED%9A%8C.swift)
 * [행렬의 곱셈](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88.swift)
+* [문자열 압축](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.swift)
+* [오픈채팅방](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.swift)
 
 ### Level 3
 * [자물쇠와 열쇠](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80%EC%97%B4%EC%87%A0.swift)
@@ -112,6 +126,7 @@
 * [입국심사](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.swift)
 * [순위](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EC%88%9C%EC%9C%84.swift)
 * [섬 연결하기](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EC%84%AC%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.swift)
+* [N으로 표현](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84.swift)
 ### Level 4
 * [무지의 먹방 라이브](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EB%AC%B4%EC%A7%80%EC%9D%98%20%EB%A8%B9%EB%B0%A9%20%EB%9D%BC%EC%9D%B4%EB%B8%8C.swift)
 ### Level 5

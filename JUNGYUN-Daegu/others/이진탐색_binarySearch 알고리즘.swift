@@ -1,31 +1,32 @@
-
-let nums = [1, 3, 5 ,6]
-let target = 4
-
-// return target index in nums if any, or return insertion index
-func binarySearch(start: Int, end: Int) -> Int {
+// Return target index. Returns -1 without result.
+// nums is should be an ascendant array
+func binarySearch(nums: [Int], target: Int) -> Int {
+    var result: Int = -1
+    var start: Int = 0
+    var end: Int = nums.count
     
-    if end - start < 2 {
-        if target <= nums[start] {
-            return start
-        } else if target < nums[end] {
-            return start + 1
-        } else if target == nums[end] {
-            return end
+    while start <= end {
+        let mid = start + ((end - start) / 2)
+    
+        if nums[mid] == target {
+            result = mid
+            break
+        } else if nums[mid] < target {
+            start = mid + 1
         } else {
-            return end + 1
+            end = mid - 1
         }
     }
     
-    let mid = start + ((end - start) / 2)
-    
-    if nums[mid] == target {
-        return mid
-    } else if nums[mid] > target {
-        return binarySearch(start: start, end: mid - 1)
-    } else {
-        return binarySearch(start: mid + 1, end: end)
-    }
+    return result
 }
 
-print(binarySearch(start: 0, end: nums.count - 1))
+//let nums = [1, 3, 5 ,6]
+//let target = 4
+//let nums = [1, 3, 5 ,6]
+//let target = 1
+let nums = [1, 3, 5 ,6, 7, 8, 9, 11, 999, 9999]
+let target = 8
+
+print(binarySearch(nums: nums, target: target))
+
