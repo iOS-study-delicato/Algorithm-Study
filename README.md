@@ -61,7 +61,8 @@ Gather
 
 | 날짜  | 문제                                                         | 분류                                          | 풀이                                                         |
 | ------ | ------------------------------------------------------------ | --------------------------------------------- | ------------------------------------------------------------ |
-|220211|[동전 1](https://www.acmicpc.net/problem/2293)|||
+|220218|[파괴되지 않은 건물](https://programmers.co.kr/learn/courses/30/lessons/92344)|||
+|220211|[동전 1](https://www.acmicpc.net/problem/2293)|DP|쏭 [아이작](https://github.com/okstring/Algorithm-Study/blob/1fc1068bb010c9a4eb5251f1e756ff707ff87965/okstring/Backjoon/동전%201.md) [제제](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/61b75b9086dfcdf0723ffaa81ab496f9aec756d3/JUNGYUN-Daegu/boj/DP/BOJ_2293.swift) 홍|
 |220204|[종이의 개수](https://www.acmicpc.net/problem/1780)|분할 정복|쏭 [아이작](https://github.com/okstring/Algorithm-Study/blob/8cd0ff3402b9967c2257eca81da52e32fe6e7590/okstring/Backjoon/종이의%20개수.md) [제제](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/85ce5e6b3534d0c87ada7531d42f1ed3de5e0cc3/JUNGYUN-Daegu/boj/BFS:DFS/BOJ_1780.swift) 홍|
 |220128|[연구소](https://www.acmicpc.net/problem/14502)|BFS, Brute force|쏭 [아이작](https://github.com/okstring/Algorithm-Study/blob/503fcde8253d6a976c93f8c706dce180510f58dd/okstring/Backjoon/연구소.md) [제제](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/840234f0c43400b0aa74367a73ac398fafb239a1/JUNGYUN-Daegu/boj/BFS:DFS/BOJ_14502.swift) 홍|
 |220121|[병사 배치하기](https://www.acmicpc.net/problem/18353)|DP, 가장 긴 증가하는 부분 수열|쏭 [아이작](https://github.com/okstring/Algorithm-Study/blob/75fece3e09275faf9c84d21b1fa64953f3816669/okstring/Backjoon/병사%20배치하기.md) [제제](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/5b6ed158bc1b37a9d1d2793064119f43cf550bd5/JUNGYUN-Daegu/boj/DP/BOJ_18353.swift) 홍|
