@@ -34,6 +34,7 @@
 ### Math
 * [1731 추론](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Math/BOJ_1731.swift)
 * [1541 잃어버린 괄호](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Math/BOJ_1541.swift)
+* [1373 2진수 8진수]()
 ### Greedy
 * [1931 회의실 배정](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Greedy/BOJ_1931.swift)
 * [1439 뒤집기](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Greedy/BOJ_1439.swift)
@@ -123,6 +124,7 @@
 * [오픈채팅방](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.swift)
 * [JadenCase 문자열 만들기](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.swift)
 * [기능개발](https://github.com/JUNGYUN-Daegu/Algorithm-Study/commit/728d5fccbc70bb50f7e6cbe1c6adc2452bf0a7e6)
+* [k진수에서 소수 개수 구하기]()
 
 ### Level 3
 * [자물쇠와 열쇠](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80%EC%97%B4%EC%87%A0.swift)
