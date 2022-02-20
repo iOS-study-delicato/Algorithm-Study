@@ -126,6 +126,8 @@
 * [기능개발](https://github.com/JUNGYUN-Daegu/Algorithm-Study/commit/728d5fccbc70bb50f7e6cbe1c6adc2452bf0a7e6)
 * [k진수에서 소수 개수 구하기](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%20%EC%86%8C%EC%88%98%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.swift)
 
+* [짝지어 제거하기]()
+
 ### Level 3
 * [자물쇠와 열쇠](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80%EC%97%B4%EC%87%A0.swift)
 * [다단계 칫솔 판매](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EB%8B%A4%EB%8B%A8%EA%B3%84%EC%B9%AB%EC%86%94%ED%8C%90%EB%A7%A4.swift)
