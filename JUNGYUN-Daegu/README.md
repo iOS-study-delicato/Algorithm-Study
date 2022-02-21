@@ -56,6 +56,7 @@
 * [27. Remove Element](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-27.swift)
 * [35. Search Insert Position](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-35.swift)
 * [53. Maximum Subarray](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-53.swift)
+* [136. Single Number]()
 * [217. Contains Duplicate](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-217.swift)
 * [941. Valid Mountain Array](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-941.swift)
 
