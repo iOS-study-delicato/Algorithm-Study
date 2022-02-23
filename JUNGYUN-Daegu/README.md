@@ -56,7 +56,7 @@
 * [27. Remove Element](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-27.swift)
 * [35. Search Insert Position](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-35.swift)
 * [53. Maximum Subarray](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-53.swift)
-* [69. Sqrt(x)]()
+* [69. Sqrt(x)](https://github.com/jung-yun/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-69.swift)
 * [136. Single Number](https://github.com/jung-yun/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-136.swift)
 * [217. Contains Duplicate](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-217.swift)
 * [941. Valid Mountain Array](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/easy-941.swift)
@@ -84,7 +84,6 @@
 * [40. Combination Sum II](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-40.swift)
 * [43. Multiply Strings](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-43.swift)
 * [45. Jump Game ii](https://github.com/jung-yun/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-45.swift)
-
 * [49. Group Anagrams](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-49.swift)
 * [54. Spiral Matrix](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-54.swift)
 * [102. Binary Tree Level Order Traversal](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-102.swift)
