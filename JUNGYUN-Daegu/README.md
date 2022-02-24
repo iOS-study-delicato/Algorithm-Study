@@ -110,6 +110,7 @@
 * [로또의 최고순위와 최저순위](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%EC%88%9C%EC%9C%84.swift)
 * [모의고사](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.swift)
 * [K번째수](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/K%EB%B2%88%EC%A7%B8%EC%88%98.swift)
+* [신고 결과 받기]()
 
 ### Level 2
 * [순위검색](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EC%88%9C%EC%9C%84%EA%B2%80%EC%83%89.swift)
