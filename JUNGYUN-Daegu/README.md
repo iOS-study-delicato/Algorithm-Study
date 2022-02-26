@@ -42,6 +42,7 @@
 * [2750 수 정렬하기](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Implementation/BOJ_2750.swift)
 * [2751 수 정렬하기2](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Implementation/BOJ_2751.swift)
 * [11279 최대 힙](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Implementation/BOJ_11279.swift)
+* [2447 별찍기 - 10]()
 ### Shortest Path
 * [11404 플로이드](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/ShortestPath/BOJ_11404.swift)
 ---
@@ -84,7 +85,7 @@
 * [40. Combination Sum II](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-40.swift)
 * [43. Multiply Strings](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-43.swift)
 * [45. Jump Game ii](https://github.com/jung-yun/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-45.swift)
-* [46. 46. Permutations](https://github.com/jung-yun/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-46.swift)
+* [46. Permutations](https://github.com/jung-yun/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-46.swift)
 * [49. Group Anagrams](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-49.swift)
 * [54. Spiral Matrix](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-54.swift)
 * [102. Binary Tree Level Order Traversal](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/leetcode/medium-102.swift)
