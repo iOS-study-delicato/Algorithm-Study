@@ -21,7 +21,7 @@
 * [7569 토마토](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/BFS:DFS/BOJ_7569.swift)
 ### Topological Sort(위상 정렬)
 * [2252 줄 세우기](https://github.com/iOS-study-delicato/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/TopologicalSort/BOJ_2252.swift)
-* [1766 문제집]()
+* [1766 문제집](https://github.com/jung-yun/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/TopologicalSort/BOJ_1766.swift)
 ### DP
 * [12026 거리](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/DP/BOJ_12026.swift)
 * [12865 평범한 배낭](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/DP/BOJ_12865.swift)
@@ -47,7 +47,7 @@
 ### Shortest Path
 * [11404 플로이드](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/ShortestPath/BOJ_11404.swift)
 ### Graph
-* [1647 도시 분할 계획]()
+* [1647 도시 분할 계획](https://github.com/jung-yun/Algorithm-Study/blob/master/JUNGYUN-Daegu/boj/Graph/BOJ_1647.swift)
 ---
 ## Leetcode
 ### Easy
