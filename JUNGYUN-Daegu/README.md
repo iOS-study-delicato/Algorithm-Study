@@ -122,7 +122,7 @@
 * [신고 결과 받기](https://github.com/jung-yun/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0.swift)
 * [체육복](https://github.com/jung-yun/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EC%B2%B4%EC%9C%A1%EB%B3%B5.swift)
 * [신규 아이디 추천](https://github.com/jung-yun/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C.swift)
-* [숫자 문자열과 영단어]()
+* [숫자 문자열과 영단어](https://github.com/jung-yun/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.swift)
 
 ### Level 2
 * [순위검색](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/master/JUNGYUN-Daegu/programmers/%EC%88%9C%EC%9C%84%EA%B2%80%EC%83%89.swift)
