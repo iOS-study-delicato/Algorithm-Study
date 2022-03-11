@@ -61,6 +61,7 @@ Gather
 
 | 날짜  | 문제                                                         | 분류                                          | 풀이                                                         |
 | ------ | ------------------------------------------------------------ | --------------------------------------------- | ------------------------------------------------------------ |
+|220225|[큐 2](https://www.acmicpc.net/problem/18258)|DEQ|쏭 아이작 제제 홍|
 |220225|[합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413?language=swift)|||
 |220218|[파괴되지 않은 건물](https://programmers.co.kr/learn/courses/30/lessons/92344)|누적합|쏭 [아이작](https://github.com/okstring/Algorithm-Study/blob/429cc1b45c4587edb118aa299fcd6bdbe2d0d4c4/okstring/Programmers/파괴되지%20않은%20건물.md) [제제](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/64579fdde69f1c9627bac7bace72902207e1e93e/JUNGYUN-Daegu/programmers/파괴되지%20않은%20건물.swift) 홍|
 |220211|[동전 1](https://www.acmicpc.net/problem/2293)|DP|쏭 [아이작](https://github.com/okstring/Algorithm-Study/blob/1fc1068bb010c9a4eb5251f1e756ff707ff87965/okstring/Backjoon/동전%201.md) [제제](https://github.com/JUNGYUN-Daegu/Algorithm-Study/blob/61b75b9086dfcdf0723ffaa81ab496f9aec756d3/JUNGYUN-Daegu/boj/DP/BOJ_2293.swift) 홍|
