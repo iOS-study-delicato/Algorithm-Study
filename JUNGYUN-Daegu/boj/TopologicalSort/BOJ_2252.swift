@@ -1,47 +1,48 @@
-// 백준 2252 줄 세우기
+
+// BOJ 2252 줄 세우기
 // https://www.acmicpc.net/problem/2252
-// 21.03.23
+// 22.03.08
 
-let nm = readLine()!.split(separator: " ")
-let numberOfStudents = Int(String(nm[0]))!
-let timesCompared = Int(String(nm[1]))!
+let nm = readLine()!.split(separator: " ").map { Int($0)! }
+let v = nm[0]
+let e = nm[1]
 
-var result = [Int]()
-var inDegree = Array(repeating: 0, count: numberOfStudents + 1)
-var graph = Array(repeating: [Int]() , count: numberOfStudents + 1)
+var indegree = Array(repeating: 0, count: v + 1)
+var graph = Array(repeating: [Int](), count: v + 1)
 
-// make adjacent list
-for _ in 0..<timesCompared {
-    let comparison = readLine()!.split(separator: " ").map { Int(String($0))! }
-    let ahead = comparison[0]
-    let following = comparison[1]
-    graph[ahead].append(following)
-    inDegree[following] += 1
+for _ in 0..<e {
+    let input = readLine()!.split(separator: " ").map { Int($0)! }
+    graph[input[0]].append(input[1])
+    indegree[input[1]] += 1
 }
 
-var q = [Int]()
+var result: [Int] = []
 
-// put node with zero in-degree into q
-for index in 1...numberOfStudents {
-    // node without following node
-    if inDegree[index] == 0 {
-        q.append(index)
-        result.append(index)
-    }
-}
-
-while !q.isEmpty {
-    let node = q.removeLast()
+func topologicalSort() {
+    var q = [Int]()
     
-    // when node without follwing node follows a certain node
-    for i in graph[node] {
-        inDegree[i] -= 1
-        // and if the certain node becomes a node without a following node
-        if inDegree[i] == 0 {
+    for i in 1...v {
+        if indegree[i] == 0 {
             q.append(i)
-            result.append(i)
+        }
+    }
+    
+    while !q.isEmpty {
+        let now = q.removeFirst()
+        result.append(now)
+        
+        for to in graph[now] {
+            indegree[to] -= 1
+            
+            if indegree[to] == 0 {
+                q.append(to)
+            }
         }
     }
 }
 
-for node in result { print(node, terminator: " ") }
+topologicalSort()
+
+for ele in result {
+    print(ele)
+}
